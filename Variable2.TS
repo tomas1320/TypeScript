@@ -1,0 +1,1 @@
+let n4: number = 10, n5: number = 20, n6: number = 30;
